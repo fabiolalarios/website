@@ -22,6 +22,10 @@
   width: 33.33% !important;
 }
 
+.background-primary, .primary-color-primary .background-primary {
+    background-color: #2828282b !important;
+}
+
 /* Tabs */
 .tab-item {
   background: none repeat scroll 0 0 #fff;
